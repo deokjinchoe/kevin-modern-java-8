@@ -5,6 +5,7 @@ import java.util.function.Function;
 /**
  * @author Kevin Lee
  * @since 2015-08-01
+ * 재네릭 메소드를 알게 됨..
  */
 public class FunctionExamples {
 
