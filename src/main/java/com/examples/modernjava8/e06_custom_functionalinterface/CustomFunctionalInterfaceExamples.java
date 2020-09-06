@@ -3,6 +3,7 @@ package com.examples.modernjava8.e06_custom_functionalinterface;
 import java.math.BigDecimal;
 
 /**
+ * 재네릭함수 부분 설정 수정.
  * @author Kevin Lee
  * @since 2015-08-01
  */
